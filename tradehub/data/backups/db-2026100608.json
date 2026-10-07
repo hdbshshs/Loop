@@ -1,0 +1,42 @@
+{
+ "users": [
+  {
+   "id": "a46d043bf1290743",
+   "username": "fewfwfeewf",
+   "email": "rienemilzo55@gmail.com",
+   "emailVerified": true,
+   "agreedAt": 1791266499449,
+   "salt": "43ae468f9e39d5fc",
+   "pw": "06dd4f677925ceff32c5c2675a5839b2287a03d1e3c626e4b43a79040e9eab97",
+   "tokens": []
+  },
+  {
+   "id": "6c37b846f882e486",
+   "username": "lp_1a4d6d",
+   "agreedAt": 1791275433784,
+   "salt": "9c91d64ef88dda1b",
+   "pw": "e9c68a41c26143c47ea1518044a6ad20bc8681ad6517db947191ea481bac2c44",
+   "isOwner": true,
+   "emailVerified": true
+  }
+ ],
+ "listings": [
+  {
+   "id": "c36e26ceaa6140af",
+   "sellerId": "a46d043bf1290743",
+   "title": "wild",
+   "description": "dwdqw",
+   "category": "Stamps",
+   "condition": "Not specified",
+   "price": 22,
+   "qty": 1,
+   "image": "/uploads/1941b7a514ee1c07.jpg",
+   "createdAt": 1791266546281
+  }
+ ],
+ "orders": [],
+ "sessions": {},
+ "payments": {},
+ "newsletter": [],
+ "drafts": {}
+}
